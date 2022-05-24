@@ -14,3 +14,12 @@ p{
     padding: 20px;
     color: blueviolet;
 }
+main{
+    height: 500px;
+    width: 100%;
+    background-color: green;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+}
